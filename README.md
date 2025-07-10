@@ -1,3 +1,4 @@
+https://github.com/jnehohwa/jnehohwa/blob/main/naruto-uzumaki-black-background-amoled-minimal-art-5k-3840x2160-8899.png
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey+I'm+Joshua+Nehohwa!;Basketball+Lover+%7C+Anime+Nerd+%7C+Code+Grinder" alt="Typing SVG" />
 
 ---
