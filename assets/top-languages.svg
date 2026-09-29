@@ -4,9 +4,9 @@
 <g font-family="DejaVu Sans,Arial,sans-serif">
 <text x="26" y="40" font-size="22" font-weight="700" fill="#f97316">Top Languages</text>
 <text x="26" y="80" font-size="16" fill="#ddd6e8">Python</text>
-<text x="590" y="80" text-anchor="end" font-size="18" font-weight="700" fill="#fe428e">46.0%</text>
+<text x="590" y="80" text-anchor="end" font-size="18" font-weight="700" fill="#fe428e">46.1%</text>
 <text x="26" y="118" font-size="16" fill="#ddd6e8">TypeScript</text>
-<text x="590" y="118" text-anchor="end" font-size="18" font-weight="700" fill="#fe428e">18.9%</text>
+<text x="590" y="118" text-anchor="end" font-size="18" font-weight="700" fill="#fe428e">18.8%</text>
 <text x="26" y="156" font-size="16" fill="#ddd6e8">Jupyter Notebook</text>
 <text x="590" y="156" text-anchor="end" font-size="18" font-weight="700" fill="#fe428e">15.4%</text>
 <text x="26" y="194" font-size="16" fill="#ddd6e8">JavaScript</text>
