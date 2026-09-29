@@ -42,18 +42,11 @@
 
 ### 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnehohwa&show_icons=true&theme=radical&count_private=true" />
+<img src="./assets/github-stats.svg" alt="GitHub commits, contributions, repositories and streaks" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnehohwa&layout=compact&theme=radical" />
+<img src="./assets/top-languages.svg" alt="Top languages across my public repositories" />
 
----
-
-### 🛠️ 2025 Goals
-
-- Launch a basketball-themed anime-coded app 🏀🎌  
-- Build a real-time trading dashboard using Python & JS  
-- Get 20+ GitHub contributions streak 📈  
-- More distinctions in Software Engineering 🎓  
+Updated daily. Commit counts cover public commits indexed by GitHub Search. Streaks count consecutive days with activity on my GitHub contribution calendar, including issues and pull requests. Language percentages measure code bytes across my own public repositories, excluding forks.
 
 ---
 

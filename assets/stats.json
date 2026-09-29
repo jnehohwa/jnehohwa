@@ -1,0 +1,31 @@
+{
+  "updated": "2026-09-29",
+  "username": "jnehohwa",
+  "public_indexed_commits": 143,
+  "profile_contributions_all_time": 156,
+  "profile_contributions_this_year": 119,
+  "longest_streak_days": 9,
+  "longest_streak_start": "2026-07-01",
+  "longest_streak_end": "2026-07-09",
+  "current_streak_days": 0,
+  "public_repositories": 13,
+  "followers": 7,
+  "stars_received": 2,
+  "language_bytes": {
+    "Python": 1278964,
+    "TypeScript": 525276,
+    "Jupyter Notebook": 429465,
+    "JavaScript": 150431,
+    "Swift": 103715,
+    "CSS": 88158,
+    "Kotlin": 84691,
+    "PHP": 83620,
+    "SQL": 12167,
+    "Shell": 11578,
+    "Java": 6620,
+    "HTML": 5776,
+    "Dockerfile": 1509,
+    "Batchfile": 797,
+    "Mako": 593
+  }
+}
