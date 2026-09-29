@@ -1,53 +1,49 @@
+# Hi, I'm Joshua Nehohwa 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey+I'm+Joshua+Nehohwa!;Basketball+Lover+%7C+Anime+Nerd+%7C+Code+Grinder" alt="Typing SVG" />
+**Junior Software Developer | Full-stack, backend and data projects**  
+Cape Town, South Africa · Final-year BSc IT (Software Engineering), Eduvos
 
----
+I build practical software across web, backend, mobile and data applications. My work includes a live community website and connected registration workflows for KuCoNa, a basketball analytics application, and a PHP/MySQL marketplace.
 
-🏀 **Basketball Court Dev** | 👨‍💻 Software Engineering Student @ Eduvos | ✨ Building Dreams in Python & JavaScript  
-📍 Cape Town, South Africa
+I have completed web development and digital systems internships with HexSoftwares and Nature's Valley Trust / KuCoNa. I also chair the Vossie DevClub, where I help students learn by building.
 
----
+**Open to junior software development opportunities in Cape Town or remotely within South Africa.**
 
-### 🔧 Tech Stack
-**Languages & Frameworks**
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Visual%20Basic-6E4F8D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/joshua-nehohwa-b4b97b229/) · [Portfolio source and case studies](https://github.com/jnehohwa/joshua-portfolio) · [Email](mailto:nehohwajoshua@gmail.com)
 
-**Tools & Platforms**
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
+## Selected Projects
 
----
+| Project | What I built | Technologies | Explore |
+| --- | --- | --- | --- |
+| **KuCoNa Digital Operations** | Live community website, programme pages, and connected registration and staff workflows | WordPress, Elementor, Jotform, Make.com, Airtable | [Live website](https://kucona.org.za/) · [Case study](./case-studies/kucona/README.md) |
+| **CourtVision AI** | Replay-first basketball analytics with predictions, a shot map, WebSocket updates and recovery tests | FastAPI, Next.js, SwiftUI, PostgreSQL, Redis | [Source](https://github.com/jnehohwa/courtvision-ai) · [Screenshots and demo guide](./case-studies/courtvision/README.md) |
+| **KasiSwap** | Academic C2C marketplace with buyer, seller and admin workflows | PHP, MySQL, JavaScript, Docker | [Source](https://github.com/jnehohwa/kasiswap-php-mysql-deliverable-2) · [Website](https://kasiswap.free.nf/) |
+| **PitchPredict** | Football prediction models with chronological backtesting and an explainable Poisson baseline | Python, FastAPI, React, pandas, scikit-learn, XGBoost | [Source and model findings](https://github.com/jnehohwa/pitch-predict) |
+| **TripBuddy** | Android travel planning, budget tracking and photo memories with local persistence | Kotlin, Android, Room | [Source](https://github.com/jnehohwa/TripBuddy2) |
+| **HexSoftwares Web Scraper** | Book-data extraction with CLI/GUI workflows, retries, logging and CSV/SQLite export | Python, Requests, BeautifulSoup, SQLite | [Source](https://github.com/jnehohwa/HexSoftware_WebScraper) |
 
-### ⛹️‍♂️ Anime Meets Basketball Energy
+CourtVision is a local demo with synthetic replay fixtures; public hosting is still pending. KuCoNa is a delivered WordPress and digital operations project, documented here as a case study.
 
-> “I treat every coding session like the 4th quarter — clutch time only.”
+## CourtVision Preview
 
-**Top 3 Anime That Fuel My Code Energy:**
-- 🥇 *Naruto* — Strategy. Grit. Sacrifice. Just like debugging.
-- 🥈 *Mushoku Tensei* — That underdog hustle & team synergy. Pure fuel.
-- 🥉 *Jujutsu Kaisen* — Elegance meets discipline. Itadori´s work ethic? Legendary.
+[![CourtVision desktop dashboard showing historical replay, win probability and shot map](https://raw.githubusercontent.com/jnehohwa/courtvision-ai/main/outputs/courtvision-dashboard-desktop.png)](./case-studies/courtvision/README.md)
 
-**Favorite Player:** Stephen Curry #30 🏀  
-**Favorite Quote:** *"Shooters shoot, whether it's 3s or shot-in-the-dark side projects."*
+## Technologies I Use
 
----
+- **Languages:** Python, TypeScript, JavaScript, PHP, Kotlin, Swift, SQL
+- **Web and APIs:** React, Next.js, FastAPI, HTML, CSS, WordPress, Elementor
+- **Data and persistence:** PostgreSQL, MySQL, SQLite, SQLAlchemy, pandas, scikit-learn
+- **Tools and workflows:** Git, Docker, GitHub Actions, Redis, Airtable, Jotform, Make.com
+- **Mobile:** Android, Room, SwiftUI
 
-### 📈 GitHub Stats
+## Beyond the Code
+
+Basketball, running and anime keep me going. Stephen Curry is my favourite player, and my interest in sports is part of what led me to build CourtVision and PitchPredict. 🏀
+
+## GitHub Stats
 
 <img src="./assets/github-stats.svg" alt="GitHub commits, contributions, repositories and streaks" />
 <br/>
 <img src="./assets/top-languages.svg" alt="Top languages across my public repositories" />
 
-Updated daily. Commit counts cover public commits indexed by GitHub Search. Streaks count consecutive days with activity on my GitHub contribution calendar, including issues and pull requests. Language percentages measure code bytes across my own public repositories, excluding forks.
-
----
-
-> *“Real hoopers don’t flinch in the clutch. Real devs don’t panic in prod.”*
+Updated daily. Commit counts cover public commits indexed by GitHub Search. Streaks use the visible GitHub contribution calendar, including issues and pull requests. Language percentages measure code bytes in my own public repositories, excluding forks.
